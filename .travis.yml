@@ -31,5 +31,5 @@ deploy:
 notifications:
   email:
     recipients:
-      - justin.park@pulmuone.com
+      - mhyoonb@pulmuone.com
 
