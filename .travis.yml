@@ -18,7 +18,7 @@ deploy:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY
     secret_access_key: $AWS_SECRET_KEY
-    bucket: springboot-webservice-deploy-mins
+    bucket: springboot-webservice-ymh
     region: ap-northeast-2
     skip_cleanup: true
     acl: public_read
